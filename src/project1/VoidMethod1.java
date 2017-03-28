@@ -2,11 +2,11 @@ package project1;
 
 public class VoidMethod1 {
 
-	void printit() //void method
+	public void printit() //void method
 	{
 		System.out.println("This is a void method and doesnt have return type");
 	}
-   void printName(String Name)
+   public void printName(String Name)
    {
 	   System.out.println(Name);
    }
